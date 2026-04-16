@@ -6,7 +6,7 @@
 
 </div>
 
-🛠️ Toolkit: ` Python ` · ` SQL ` · ` Power BI ` · ` Tableau ` · ` Looker Studio ` · ` Notion ` · ` Mixpanel ` · ` Excel ` · ` SenseData ` · ` Zendesk ` · ` Intercom ` · ` n8n ` · ` Zapier ` · ` Jira ` · ` Git `
+**🛠️ Toolkit:** ` Python ` · ` SQL ` · ` Power BI ` · ` Tableau ` · ` Looker Studio ` · ` Notion ` · ` Mixpanel ` · ` Excel ` · ` SenseData ` · ` Zendesk ` · ` Intercom ` · ` n8n ` · ` Zapier ` · ` Jira ` · ` Git `
 
 ---
 
