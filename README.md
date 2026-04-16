@@ -52,9 +52,13 @@ Aprofundando minhas habilidades em:
 
 ## 📚 Educação e Certificações
 **🧑‍🎓 Unisul (Universidade do Sul de Santa Catarina)** — *Bacharel em Direito (2017 - 2022);*
+
 **🧠 Estácio de Sá - Florianópolis/SC** — *Bacharelado em Sistemas de Informação (2025-2029);*
+
 **🌍 Cambridge University Press & Assessment** - *Inglês - Nível B1 (2017);*
+
 **📊 PM3: Escola de Negócios e Produtos Digitais** - *Análise de Dados (2026);*
+
 **📚 Senai** - *Manipulação de Dados com Python e SQL | Gestão de Dados com Arquitetura Moderna (2026).*
 
 ---
@@ -62,6 +66,9 @@ Aprofundando minhas habilidades em:
 ## 📫 Contato
 
 💼 LinkedIn: [https://br.linkedin.com/in/nicolas-freitas-liceski](https://br.linkedin.com/in/nicolas-freitas-liceski)
+
 📧 Email: nicolasliceski@hotmail.com
+
 📍 Florianópolis, Santa Catarina
+
 [Linkedin](https://br.linkedin.com/in/nicolas-freitas-liceski) · [Github](https://github.com/Nicolasfreitas6)
