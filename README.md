@@ -40,15 +40,20 @@ Aprofundando minhas habilidades em:
 
 ## 🛠️ Stack & Ferramentas
 
-- Python (Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-learn, Beautiful Soup)
+- Python (Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-learn, Beautiful Soup);
 - SQL;
 - Power BI;
 - Tableau;
+- Looker Studio;
 - Notion;
 - Mixpanel;
 - Excel;
 - SenseData;
+- Zendesk;
 - Intercom;
+- n8n;
+- Zapier;
+- Jira;
 - Git & GitHub.
 
 ---
