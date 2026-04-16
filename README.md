@@ -1,4 +1,6 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Nicolas Freitas
+
+
 
 <!--
 **Nicolasfreitas6/Nicolasfreitas6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
