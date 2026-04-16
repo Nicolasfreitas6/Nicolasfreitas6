@@ -4,7 +4,6 @@
 
 ### 🚀 Customer Success | ⚙️ Operations | 📊 Data Analysis
 
----
 </div>
 
 🛠️ Toolkit: ![Python](https://img.shields.io/badge/Python-lightgrey?style=flat)
@@ -22,6 +21,8 @@
 · ![Zapier](https://img.shields.io/badge/Zapier-lightgrey?style=flat)
 · ![Jira](https://img.shields.io/badge/Jira-lightgrey?style=flat)
 · ![Git](https://img.shields.io/badge/Git-lightgrey?style=flat)
+
+---
 
 ## 🎯 Objetivo
 
