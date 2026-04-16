@@ -1,5 +1,7 @@
 # 👋 Olá! Eu sou o Nicolas Freitas
 
+🚀 Customer Success | ⚙️ Operations | 📊 Data Analysis
+
 
 
 <!--
