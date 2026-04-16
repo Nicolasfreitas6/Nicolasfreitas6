@@ -7,7 +7,7 @@
 ---
 </div>
 
-🛠️ Toolkit:![Python](https://img.shields.io/badge/Python-lightgrey?style=flat)
+🛠️ Toolkit: ![Python](https://img.shields.io/badge/Python-lightgrey?style=flat)
 · ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=flat)
 · ![Power BI](https://img.shields.io/badge/Power%20BI-lightgrey?style=flat)
 · ![Tableau](https://img.shields.io/badge/Tableau-lightgrey?style=flat)
