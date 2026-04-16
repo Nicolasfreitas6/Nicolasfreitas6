@@ -6,21 +6,7 @@
 
 </div>
 
-🛠️ Toolkit: ![Python](https://img.shields.io/badge/Python-lightgrey?style=flat-square)
-· ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=flat)
-· ![Power BI](https://img.shields.io/badge/Power%20BI-lightgrey?style=flat-square)
-· ![Tableau](https://img.shields.io/badge/Tableau-lightgrey?style=flat-square)
-· ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-lightgrey?style=flat-square)
-· ![Notion](https://img.shields.io/badge/Notion-lightgrey?style=flat-square)
-· ![Mixpanel](https://img.shields.io/badge/Mixpanel-lightgrey?style=flat-square)
-· ![Excel](https://img.shields.io/badge/Excel-lightgrey?style=flat-square)
-· ![SenseData](https://img.shields.io/badge/SenseData-lightgrey?style=flat-square)
-· ![Zendesk](https://img.shields.io/badge/Zendesk-lightgrey?style=flat-square)
-· ![Intercom](https://img.shields.io/badge/Intercom-lightgrey?style=flat-square)
-· ![n8n](https://img.shields.io/badge/n8n-lightgrey?style=flat-square)
-· ![Zapier](https://img.shields.io/badge/Zapier-lightgrey?style=flat-square)
-· ![Jira](https://img.shields.io/badge/Jira-lightgrey?style=flat-square)
-· ![Git](https://img.shields.io/badge/Git-lightgrey?style=flat-square)
+🛠️ Toolkit: ` Python ` · ` SQL ` · ` Power BI ` · ` Tableau ` · ` Looker Studio ` · ` Notion ` · ` Mixpanel ` · ` Excel ` · ` SenseData ` · ` Zendesk ` · ` Intercom ` · ` n8n ` · ` Zapier ` · ` Jira ` · ` Git `
 
 ---
 
