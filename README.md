@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá! Eu sou o Nicolas Freitas
+# 👋 Olá! Eu sou o Nicolas Freitas Licéski
 
 ### 🚀 Customer Success | ⚙️ Operations | 📊 Data Analysis
 
