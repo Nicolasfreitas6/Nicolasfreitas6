@@ -7,6 +7,38 @@
 ---
 </div>
 
+## 🛠️ Toolkit
+
+![Python](https://img.shields.io/badge/Python-lightgrey?style=flat)
+·
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=flat)
+·
+![Power BI](https://img.shields.io/badge/Power%20BI-lightgrey?style=flat)
+·
+![Tableau](https://img.shields.io/badge/Tableau-lightgrey?style=flat)
+·
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-lightgrey?style=flat)
+·
+![Notion](https://img.shields.io/badge/Notion-lightgrey?style=flat)
+·
+![Mixpanel](https://img.shields.io/badge/Mixpanel-lightgrey?style=flat)
+·
+![Excel](https://img.shields.io/badge/Excel-lightgrey?style=flat)
+·
+![SenseData](https://img.shields.io/badge/SenseData-lightgrey?style=flat)
+·
+![Zendesk](https://img.shields.io/badge/Zendesk-lightgrey?style=flat)
+·
+![Intercom](https://img.shields.io/badge/Intercom-lightgrey?style=flat)
+·
+![n8n](https://img.shields.io/badge/n8n-lightgrey?style=flat)
+·
+![Zapier](https://img.shields.io/badge/Zapier-lightgrey?style=flat)
+·
+![Jira](https://img.shields.io/badge/Jira-lightgrey?style=flat)
+·
+![Git](https://img.shields.io/badge/Git-lightgrey?style=flat)
+
 ## 🎯 Objetivo
 
 Migrar para uma área de **Dados e/ou Operações**, atuando com:
