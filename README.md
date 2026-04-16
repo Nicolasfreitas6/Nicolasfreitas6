@@ -7,7 +7,9 @@
 ---
 </div>
 
-## 🛠️ Toolkit
+🛠️ Toolkit:
+
+🛠️ Toolkit
 
 ![Python](https://img.shields.io/badge/Python-lightgrey?style=flat)
 ·
@@ -58,7 +60,7 @@ Atualmente estou aprofundando minhas habilidades em Python e SQL, com foco em an
 
 Atualmente trabalhando em:
 
-- **Aurum Software** - Analista de Customer Success
+- **Aurum Software** - Analista de Customer Success.
 
 Aprofundando minhas habilidades em:
 - 📊 Análise de dados (Python, SQL, Power BI e Tableau);
@@ -97,10 +99,10 @@ Aprofundando minhas habilidades em:
 
 ## 📫 Contato
 
-💼 LinkedIn: [https://br.linkedin.com/in/nicolas-freitas-liceski](https://br.linkedin.com/in/nicolas-freitas-liceski)
+💼 LinkedIn: [https://br.linkedin.com/in/nicolas-freitas-liceski](https://br.linkedin.com/in/nicolas-freitas-liceski);
 
-📧 Email: nicolasliceski@hotmail.com
+📧 Email: nicolasliceski@hotmail.com;
 
-📍 Florianópolis, Santa Catarina
+📍 Florianópolis, Santa Catarina.
 
 [Linkedin](https://br.linkedin.com/in/nicolas-freitas-liceski) · [Github](https://github.com/Nicolasfreitas6)
